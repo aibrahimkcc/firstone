@@ -1,3 +1,3 @@
 #Deneme
 ##Alt bilgi
-[keke]{http://google.com}
+[keke](http://google.com)
